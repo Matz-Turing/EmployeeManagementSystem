@@ -1,0 +1,14 @@
+C:\Users\perei\Downloads\SimpleEmployeeDirectory\bin\Debug\net8.0\SimpleEmployeeDirectory.exe
+C:\Users\perei\Downloads\SimpleEmployeeDirectory\bin\Debug\net8.0\SimpleEmployeeDirectory.deps.json
+C:\Users\perei\Downloads\SimpleEmployeeDirectory\bin\Debug\net8.0\SimpleEmployeeDirectory.runtimeconfig.json
+C:\Users\perei\Downloads\SimpleEmployeeDirectory\bin\Debug\net8.0\SimpleEmployeeDirectory.dll
+C:\Users\perei\Downloads\SimpleEmployeeDirectory\bin\Debug\net8.0\SimpleEmployeeDirectory.pdb
+C:\Users\perei\Downloads\SimpleEmployeeDirectory\obj\Debug\net8.0\SimpleEmployeeDirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\perei\Downloads\SimpleEmployeeDirectory\obj\Debug\net8.0\SimpleEmployeeDirectory.AssemblyInfoInputs.cache
+C:\Users\perei\Downloads\SimpleEmployeeDirectory\obj\Debug\net8.0\SimpleEmployeeDirectory.AssemblyInfo.cs
+C:\Users\perei\Downloads\SimpleEmployeeDirectory\obj\Debug\net8.0\SimpleEmployeeDirectory.csproj.CoreCompileInputs.cache
+C:\Users\perei\Downloads\SimpleEmployeeDirectory\obj\Debug\net8.0\SimpleEmployeeDirectory.dll
+C:\Users\perei\Downloads\SimpleEmployeeDirectory\obj\Debug\net8.0\refint\SimpleEmployeeDirectory.dll
+C:\Users\perei\Downloads\SimpleEmployeeDirectory\obj\Debug\net8.0\SimpleEmployeeDirectory.pdb
+C:\Users\perei\Downloads\SimpleEmployeeDirectory\obj\Debug\net8.0\SimpleEmployeeDirectory.genruntimeconfig.cache
+C:\Users\perei\Downloads\SimpleEmployeeDirectory\obj\Debug\net8.0\ref\SimpleEmployeeDirectory.dll
