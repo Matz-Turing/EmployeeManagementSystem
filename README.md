@@ -2,6 +2,8 @@
 
 Este é um programa em C# que oferece um conjunto de funcionalidades para gerenciar registros de funcionários de forma eficiente. O sistema permite realizar diversas operações relacionadas às informações e estatísticas dos funcionários.
 
+![Diagrama do Sistema](img/1.png "Menu principal listando todas as opções disponiveis")
+
 ## Funcionalidades
 
 1. **Buscar Funcionário por Nome:**
